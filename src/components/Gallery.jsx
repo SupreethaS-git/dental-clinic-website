@@ -7,13 +7,13 @@ const { Title, Paragraph } = Typography;
 const galleryItems = [
   {
     type: "image",
-    src: "src/assets/gallery_1.png",
+    src: "public/gallery_1.png",
     title: "Modern Treatment Rooms",
     description: "State-of-the-art equipment in comfortable settings"
   },
   {
     type: "image", 
-    src: "src/assets/gallery_2.png",
+    src: "public/gallery_2.png",
     title: "Professional Care",
     description: "Expert dental professionals at work"
   },
